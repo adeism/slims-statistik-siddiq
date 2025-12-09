@@ -6,6 +6,8 @@ Plugin ini dirancang untuk membantu pustakawan dan admin perpustakaan dalam meng
 
 > **Terinspirasi dari**: Postingan Pak Hendro Wicaksono di grup WhatsApp SLiMS Community
 
+![Gambar WhatsApp 2025-12-09 pukul 09 25 30_74d24302](https://github.com/user-attachments/assets/2418cd07-310f-4431-a4db-cbbf904f58fd)
+
 ---
 
 ## ✨ Fitur Utama
