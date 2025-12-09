@@ -57,7 +57,7 @@ Panduan lengkap untuk memasang plugin ini dapat ditemukan pada tautan berikut:
 
 ## 💻 Kebutuhan Sistem
 
-• ✅ **SLiMS**: Versi 9.6.1 (Bulian) atau lebih tinggi  
+• ✅ **SLiMS**: Versi 9.5.0 (Bulian) atau lebih tinggi  
 • ✅ **PHP**: 7.4 atau lebih tinggi  
 • ✅ **Database**: MySQL/MariaDB  
 • ✅ **Hak Akses**: Peran pengguna sebagai Admin atau Pustakawan dengan akses menu Reporting
